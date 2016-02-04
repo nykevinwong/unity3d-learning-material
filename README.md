@@ -9,6 +9,11 @@
 * [Fast-Paced Multiplayer Techniques and algorithms](http://www.gabrielgambetta.com/fpm1.html) 
 * [Unity3D multiplayer integration with google play game services](http://www.raywenderlich.com/86040/creating-cross-platform-multiplayer-game-unity-part-1)
 
+## Money Making Stragedy
+* [40 secrect to make money with in-app purcahse](http://www.raywenderlich.com/39647/40-secrets-to-making-money-with-in-app-purchases)
+
+## Stats
+
 ## 3D Modeling
 
 ## Free Assets for commerical projects.
