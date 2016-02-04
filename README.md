@@ -12,6 +12,7 @@
 ## About Money Making
 
 ### Stats
+[Top mobile game categories with high in-app purcahse rate](https://apsalar.com/blog/2013/02/top-mobile-game-categories-by-in-app-purchase-engagement/)
 
 ### advertisement revenue 
 
