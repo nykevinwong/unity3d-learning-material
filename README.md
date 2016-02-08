@@ -21,9 +21,10 @@
 ## Multiplayer 
 * [Fast-Paced Multiplayer Techniques and algorithms](http://www.gabrielgambetta.com/fpm1.html) 
 * [Unity3D multiplayer integration with google play game services](http://www.raywenderlich.com/86040/creating-cross-platform-multiplayer-game-unity-part-1)
-## Game Design
-* [Introduction to Game Design, Prototyping, and Development: From Concept to Playable Game with Unity and C#](http://www.amazon.com/Introduction-Game-Design-Prototyping-Development/dp/0321933168/ref=sr_1_1?ie=UTF8&qid=1454955034&sr=8-1&keywords=Introduction+to+Game+Design%2C+Prototyping%2C+and+Development%3A+From+Concept+to+Playable+Game+with+Unity+and+C%23)
 
+## Game Design
+* [The Art of Game Design: A book of lenses](http://www.amazon.com/Art-Game-Design-book-lenses/dp/0123694965/ref=sr_1_3?ie=UTF8&qid=1454955521&sr=8-3&keywords=the+art+of+game+design)
+ 
 ## About Money Making
 
 ### Stats
