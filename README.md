@@ -40,8 +40,11 @@
 
 
 ## 3D Modeling
+* [Create your 3d character model for game development in 5-10 minutes for commerically use, for free!!](https://helpx.adobe.com/creative-cloud/how-to/create-3d-character-adobe-fuse.html)
+* [3D model auto-rigging with Mixamo](https://www.mixamo.com/workflows/blender)
 
 ## Free Assets for commerical projects.
+* [Unity3D Asset Store](https://www.assetstore.unity3d.com/)
 
 ## Buy 3D Assets
 * [Turbosquid](https://www.turbosquid.com)
