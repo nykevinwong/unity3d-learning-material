@@ -1,9 +1,22 @@
 # unity3d-learning-material
 
-## Unity3D Basic
+## Official Unity3D tutorials
+* [Unity3D Official Tutorials](https://unity3d.com/learn/tutorials)
 
-## 2D Game with Unity3d
-* [Create Jetpack Joyride Alike](http://www.raywenderlich.com/69392/make-game-like-jetpack-joyride-unity-2d-part-1) 
+## Unity3D Basic (Zero Knowledge of Unity3d Experience required)
+* [Roll-a-ball tutorial](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
+
+## Unity3D Intermediate (Know Basic Unity3D Interfance, familiar with Unity3d/Game Programming jargon)
+
+### Create a basic 2d space shooter, 2.5d Platformer sketch, and a simple 3D FPS game.
+* [Unity Game Development Blueprints by John P. Doran, 318 pages] (http://www.amazon.com/Unity-Game-Development-Blueprints-Doran/dp/1783553650/ref=sr_1_1?ie=UTF8&qid=1454948290&sr=8-1&keywords=Unity+Game+Development+Blueprints)
+
+### Create a basic 3D game 
+* [Building a Game with Unity and Blender](http://www.amazon.com/Building-Game-Unity-Blender-Lee/dp/178528214X/ref=sr_1_1?ie=UTF8&qid=1454949605&sr=8-1&keywords=building+a+game+with+unity+and+blender)
+
+
+### 2D Game with Unity3d 
+* [Create Jetpack Joyride Alike, Basic Knowledge of Unity3d Mecanim is required](http://www.raywenderlich.com/69392/make-game-like-jetpack-joyride-unity-2d-part-1) 
 
 ## Multiplayer 
 * [Fast-Paced Multiplayer Techniques and algorithms](http://www.gabrielgambetta.com/fpm1.html) 
