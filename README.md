@@ -54,8 +54,10 @@ If you practice below two items, your skill will be good enough to create your b
 * [Adobe Fuse - Create your 3d character model for game development in 5-10 minutes for commerically use, for free!!](https://helpx.adobe.com/creative-cloud/how-to/create-3d-character-adobe-fuse.html)
 * [Mixamo - 3D model auto-rigging](https://www.mixamo.com/workflows/blender)
 
-## Free Assets for commerical projects.
+## Free Assets for commerical projects. must check license before using it.
+
 * [Unity3D Asset Store](https://www.assetstore.unity3d.com/)
+* [BlenderSwap](www.blendswap.com)
 
 ## Buy 3D Assets
 * [Turbosquid](https://www.turbosquid.com)
