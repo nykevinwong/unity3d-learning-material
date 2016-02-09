@@ -23,8 +23,8 @@
 * [Unity3D multiplayer integration with google play game services](http://www.raywenderlich.com/86040/creating-cross-platform-multiplayer-game-unity-part-1)
 
 ## Special Effect
-* (2D Paper Page Curl Effect)[https://youtu.be/CUW3fGEK9as]
-*
+* [2D Paper Page Curl Effect](https://youtu.be/CUW3fGEK9as)
+
 ## Game Design
 * [The Art of Game Design: A book of lenses](http://www.amazon.com/Art-Game-Design-book-lenses/dp/0123694965/ref=sr_1_3?ie=UTF8&qid=1454955521&sr=8-3&keywords=the+art+of+game+design)
  
