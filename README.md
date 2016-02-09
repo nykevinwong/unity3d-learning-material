@@ -9,10 +9,10 @@
 ## Unity3D Intermediate (Know Basic Unity3D Interfance, familiar with Unity3d/Game Programming jargon)
 
 ### Create a basic 2d space shooter, 2.5d Platformer sketch, and a simple 3D FPS game.
-* [Unity Game Development Blueprints by John P. Doran, 318 pages] (http://www.amazon.com/Unity-Game-Development-Blueprints-Doran/dp/1783553650/ref=sr_1_1?ie=UTF8&qid=1454948290&sr=8-1&keywords=Unity+Game+Development+Blueprints)
+* [Book - Unity Game Development Blueprints by John P. Doran, 318 pages] (http://www.amazon.com/Unity-Game-Development-Blueprints-Doran/dp/1783553650/ref=sr_1_1?ie=UTF8&qid=1454948290&sr=8-1&keywords=Unity+Game+Development+Blueprints)
 
 ### Create a basic 3D game 
-* [Building a Game with Unity and Blender](http://www.amazon.com/Building-Game-Unity-Blender-Lee/dp/178528214X/ref=sr_1_1?ie=UTF8&qid=1454949605&sr=8-1&keywords=building+a+game+with+unity+and+blender)
+* [Book - Building a Game with Unity and Blender by Lee Zhi Eng, 250 pages](http://www.amazon.com/Building-Game-Unity-Blender-Lee/dp/178528214X/ref=sr_1_1?ie=UTF8&qid=1454949605&sr=8-1&keywords=building+a+game+with+unity+and+blender)
 
 
 ### 2D Game with Unity3d 
