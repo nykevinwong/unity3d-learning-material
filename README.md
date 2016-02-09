@@ -30,6 +30,9 @@
  
 ## About Money Making
 
+### Should I make a 2d game or a 3d game?
+[Why are most indie games are 2D and not 3D?](https://www.quora.com/Why-are-most-indie-games-2d-and-not-3d)
+
 ### Stats
 [Top mobile game categories with high in-app purcahse rate](https://apsalar.com/blog/2013/02/top-mobile-game-categories-by-in-app-purchase-engagement/)
 
