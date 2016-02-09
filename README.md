@@ -22,6 +22,9 @@
 * [Fast-Paced Multiplayer Techniques and algorithms](http://www.gabrielgambetta.com/fpm1.html) 
 * [Unity3D multiplayer integration with google play game services](http://www.raywenderlich.com/86040/creating-cross-platform-multiplayer-game-unity-part-1)
 
+## Special Effect
+* (2D Paper Page Curl Effect)[https://youtu.be/CUW3fGEK9as]
+*
 ## Game Design
 * [The Art of Game Design: A book of lenses](http://www.amazon.com/Art-Game-Design-book-lenses/dp/0123694965/ref=sr_1_3?ie=UTF8&qid=1454955521&sr=8-3&keywords=the+art+of+game+design)
  
@@ -40,6 +43,7 @@
 
 
 ## 3D Modeling
+* [Blender 2.7 Beginner Tutorils](https://www.youtube.com/playlist?list=PLda3VoSoc_TR7X7wfblBGiRz-bvhKpGkS)
 * [Create your 3d character model for game development in 5-10 minutes for commerically use, for free!!](https://helpx.adobe.com/creative-cloud/how-to/create-3d-character-adobe-fuse.html)
 * [3D model auto-rigging with Mixamo](https://www.mixamo.com/workflows/blender)
 
