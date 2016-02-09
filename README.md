@@ -56,10 +56,10 @@
 If you practice below two items, your skill will be good enough to create your basic 3d characters/assets for commerical use.
 * [Blender 2.7 Beginner Tutorials](https://www.youtube.com/playlist?list=PLda3VoSoc_TR7X7wfblBGiRz-bvhKpGkS)
 * [Book - Blender 3D by Example by Romain Caudron and Pierre-Armand Nicq, 339 pages] (http://www.amazon.com/Blender-3D-Example-Romain-Caudron/dp/1785285076/ref=sr_1_1?ie=UTF8&qid=1455060654&sr=8-1&keywords=blender+by+3d+example)
-* 
+
 ### Free Mixamo products and Adobe products 
 * [Adobe Fuse - Create your 3d character model for game development in 5-10 minutes for commerically use, for free!!](https://helpx.adobe.com/creative-cloud/how-to/create-3d-character-adobe-fuse.html)
-* [Mixamo - 3D model auto-rigging](https://www.mixamo.com/workflows/blender)
+* [Mixamo - 3D model auto-rigging, add 3d sekelton to your 3d model in 10 minutes](https://www.mixamo.com/workflows/blender)
 
 ## Free Assets for commerical projects. must check license before using it.
 
