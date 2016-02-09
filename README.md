@@ -34,7 +34,11 @@
 [Why are most indie games are 2D and not 3D?](https://www.quora.com/Why-are-most-indie-games-2d-and-not-3d)
 
 ### Stats
+
+[What type of game I should make?? See what are the best selling video games in history](https://en.wikipedia.org/wiki/List_of_best-selling_video_games)
+
 [Top mobile game categories with high in-app purcahse rate](https://apsalar.com/blog/2013/02/top-mobile-game-categories-by-in-app-purchase-engagement/)
+
 
 ### advertisement revenue 
 
