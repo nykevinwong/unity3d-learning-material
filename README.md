@@ -27,7 +27,12 @@
 
 ## Game Design
 * [The Art of Game Design: A book of lenses](http://www.amazon.com/Art-Game-Design-book-lenses/dp/0123694965/ref=sr_1_3?ie=UTF8&qid=1454955521&sr=8-3&keywords=the+art+of+game+design)
- 
+
+## 2D Character customization
+* [What is Character customization? see the example in Internet Explorer] (https://dl.dropboxusercontent.com/u/71975219/ZombieGame/ZombieGame.html)
+* [2D Character customization technique -1](http://forum.unity3d.com/threads/mini-tutorial-on-changing-sprite-on-runtime.212619/)
+* [2D Character customization technique -2](http://www.gamasutra.com/blogs/YuriyNikshych/20140212/210624/Creating_Customizable_2D_Characters_in_Unity3D.php)
+
 ## About Money Making
 
 ### Should I make a 2d game or a 3d game?
