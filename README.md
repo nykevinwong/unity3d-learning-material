@@ -39,7 +39,7 @@
 * [2D Character customization technique -2](http://www.gamasutra.com/blogs/YuriyNikshych/20140212/210624/Creating_Customizable_2D_Characters_in_Unity3D.php)
 
 ## Plugin
-# [Don't know how to make a Super Mario game? you can make one even better with this totally free plugin.](https://www.assetstore.unity3d.com/en/#!/content/17420)
+* [Don't know how to make a Super Mario game? you can make one even better with this totally free plugin.](https://www.assetstore.unity3d.com/en/#!/content/17420)
 
 ## About Money Making
 
