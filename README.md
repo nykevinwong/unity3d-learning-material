@@ -46,6 +46,7 @@
 ## About Money Making
 
 [How much do you earn from your games?](http://forum.unity3d.com/threads/how-much-money-do-you-earn-from-your-games.271820/)
+[How I made my $60000 from my indie web game?](http://gamedevelopment.tutsplus.com/articles/cardinal-quest-how-i-made-60000-from-my-indie-game--gamedev-12073)
 
 ### Should I make a 2d game or a 3d game?
 [Why are most indie games are 2D and not 3D?](https://www.quora.com/Why-are-most-indie-games-2d-and-not-3d)
