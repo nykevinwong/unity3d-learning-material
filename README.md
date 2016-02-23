@@ -44,6 +44,9 @@
 * [Don't know how to make a Super Mario game? you can make one even better with this totally free plugin.](https://www.assetstore.unity3d.com/en/#!/content/17420)
 * [admob plugin for Unity3d](https://developers.google.com/admob/android/games)
 
+## open source game code for Unity3d with commerically free license.
+* [Angry Bird Clone](https://github.com/dgkanatsios/AngryBirdsClone)
+
 ## About Money Making
 
 [How much do you earn from your games?](http://forum.unity3d.com/threads/how-much-money-do-you-earn-from-your-games.271820/)
