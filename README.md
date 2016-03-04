@@ -95,7 +95,7 @@ If you practice below two items, your skill will be good enough to create your b
 ## 2D Game Art
 * [open gameart, free](http://www.opengameart.org)
 * [2d Game Art] (http://www.gameart2d.com)
-*
+
 ## Buy 3D Assets
 * [Turbosquid](https://www.turbosquid.com)
 * [Unity3D Asset Store](https://www.assetstore.unity3d.com/)
