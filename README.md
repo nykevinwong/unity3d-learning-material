@@ -1,6 +1,6 @@
 # unity3d-learning-material
 
-* [unity 2d tutorial - getting started, zero knowledge is required] https://www.raywenderlich.com/61532/unity-2d-tutorial-getting-started
+* [unity 2d tutorial - getting started, zero knowledge is required](https://www.raywenderlich.com/61532/unity-2d-tutorial-getting-started)
 * [Unity3D System Requirement](https://unity3d.com/unity/system-requirements)
 
 ## Official Unity3D tutorials
